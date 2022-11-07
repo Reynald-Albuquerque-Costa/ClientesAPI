@@ -19,6 +19,7 @@ namespace ClientesAPI.Src.Models
 
         [ForeignKey("fk_clienteOrigem")]
         public ClienteModel ChavePixOrigem { get; set; }
+
         public decimal Valor { get; set; }
 
         [ForeignKey("fk_clienteDestino")]
