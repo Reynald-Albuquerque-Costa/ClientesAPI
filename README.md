@@ -11,3 +11,8 @@ ASP.NET<br>
 SqlServer<br>
 Postman<br>
 Swagger
+
+<br>
+<br>
+
+![fotoAPI](https://user-images.githubusercontent.com/108155648/200430739-94f89c88-29fa-4249-ac8b-8cd609f9ccb0.png)
